@@ -9,7 +9,7 @@ These books can be used to tell fictional tales, or fictionalized versions of re
 
 The idea is for many different people to add their stories to this collection. e.g. histories of servers, histories of people, stories about the creation and use of mods, notable places, buildings etc etc.
 
-See the init.lua file in lorebooks for formatting guides etc to aid with adding your story to the collection.
+See below for formatting guides etc to aid with adding your story to the collection.
 
 
 
