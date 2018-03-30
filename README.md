@@ -9,6 +9,8 @@ These books can be used to tell fictional tales, or fictionalized versions of re
 
 The idea is for many different people to add their stories to this collection. e.g. histories of servers, histories of people, stories about the creation and use of mods, notable places, buildings etc etc.
 
+The books can then be added to or spawned in the world. Players can collect and discover them, slowly uncovering the stories of Minetest as they go.
+
 See below for formatting guides etc to aid with adding your story to the collection.
 
 
