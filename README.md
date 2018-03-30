@@ -37,8 +37,8 @@ Formatting guide:
 - limit to around 240-250 words per page
 - only two pages.
 - err on the side of being shorter, otherwise you will lose text.
-- use '' for quotations with the text.
--- Do not use enter for new lines: use \n \n for a blank line paragraph break.
+- use ' for quotations within the text (" is needed by the code).
+- Do not use enter for new lines: use \n \n for a blank line paragraph break.
 - make sure the book has a unique name
 
 How to add a book:
