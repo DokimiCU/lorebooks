@@ -108,3 +108,15 @@ People can write what they like... within some constraints. The suspension of di
 - Remember the first law of improv - if someone says something you run with it. Never say No!
 
 - Decency: this will be available to the general public, including children. Don't be an ass! You must get things past the Imperial Censor - annoy the Censor and your book shall bear the scars of the Censors rage!
+
+# An Example: how to tell your story
+Two questions: 
+- if Minetest was the real world, who would you be? (Where have you been, seen, built? What servers, mods, forums topics...?)
+- How would your story emerge within the Minetest universe (witness? Arrest warrants? An autobiography?)
+
+e.g. I would clearly be a mad scientist (my Self Organizing Systems mod created self-replicating robots and doomsday weapons!)
+So my tale is told over a few books:
+ - Various 'research notes': copied from mod documentation, and notes based on testing a mod.
+ - The Mysterious Doktor Dokimi: someone trying to figure out who I am.
+ - Travels in Ecologia: someone visiting the testing site where I developped my mods.
+The result is a story seen in glimpses, hinting at swirling controversy, conspiracy, and danger.
