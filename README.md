@@ -81,7 +81,7 @@ People can write what they like... within some constraints. The suspension of di
 
 - Everything should be written from a perspective inside the game. For the author Minetest is the real world!
 
-- "Breaking the 4th wall": to allow references to members of the Minetest community, and people and places in the real world I have created two religions and an Empire. Please use them!
+- No "Breaking the 4th wall": to allow references to members of the Minetest community, and people and places in the real world I have created two religions and an Empire. Please use them!
 - Minetestism: Allows talk of how Minetest came to be. The developers are gods within a polytheistic pantheon, other notable members are legendary heroes (or sea monsters, demi-gods,or whatever). The clergy is The Order of Mine.
 - The Outsider Cult: Allows talk of the real world. These are mystics who believe the world is an illusion, and the entire universe in contained within a place called "Outside". We can mystically 'go Outside' by 'Stopping'.
 - The Empire: Allows talk about anything else to do with the community. A vast nebulous political entity no-one understands. (e.g. Moderators/admins = imperial senators, officials etc. Modders = scientists, wizards etc. Griefers etc = criminals, rebels, terrorists etc)
