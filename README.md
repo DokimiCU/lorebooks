@@ -42,7 +42,7 @@ Formatting guide:
 - make sure the book has a unique name
 
 How to add a book:
--copy a prexisting book's file, change to following to suit:
+- copy a prexisting book's file, change to following to suit:
 
 local book_title = "lorebooks:my_books_name_goes_here"
 
@@ -59,7 +59,7 @@ local author = "Wombat the Wise"
 local date = "360"
 
 - The generic registers need to be in the file, but these are the same in all files. No need to change them!
--(The book also needs to then be run from the init.lua file, and registered for treasury, but submitters don't need to worry about that.)
+- (The book also needs to then be run from the init.lua file, and registered for treasury, but submitters don't need to worry about that.)
 
 Inventory Images:
 - Having different images for each topic helps with sorting.
