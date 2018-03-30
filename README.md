@@ -62,9 +62,7 @@ local date = "360"
 - (The book also needs to then be run from the init.lua file, and registered for treasury, but submitters don't need to worry about that.)
 
 Inventory Images:
-- Having different images for each topic helps with sorting.
-- Each book could have a unique image, but the number of images would become very large
-- These are the categories so far:
+- Having different images for each topic helps with sorting. Each book could have a unique image, but the number of images would become very large. These are the categories so far:
 - default_book.png (for anything)
 - lorebooks_advice.png (for tutorials, selfhelp etc)
 - lorebooks_science.png (works of scholarship)
