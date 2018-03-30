@@ -104,3 +104,5 @@ People can write what they like... within some constraints. The suspension of di
 
 - Put your criticisms in a book: If you dislike my idea for the religion/empire etc (or books that anyone has written) don't complain to us! Write a book of your own saying explaining how the world really works. But at least aknowledge that the Empire etc is the 'common sense' picture of reality (at least until some new story emerges).
 - Remember the first law of improv - if someone says something you run with it. Never say No!
+
+- Decency: this will be available to the general public, including children. Don't be an ass! You must get things past the Imperial Censor - annoy the Censor and your book shall bear the scars of the Censors rage!
