@@ -5,7 +5,7 @@ A Minetest mod that adds lore books, to allow story telling within a Minetest un
 
 These books contain short stories, poems, religious decrees, official pronouncements... anything at all.
 
-These books can be used to tell fictional tales, or fictionalized versions of real peoples interactions with the Minetest game, and the Minetest community. The aim is for these books to create a Minetest Universe, to add a sense of narrative to playing Minetest, as well as to capture the stories and culture of the Minetest community.
+These books can be used to tell fictional tales, or fictionalized versions of real peoples interactions with the Minetest game, and the Minetest community. The aim is for these books to create a Minetest Universe, to add a sense of narrative to playing Minetest, as well as to capture the stories and culture of the Minetest community. Think of it as a vast game of Dungeons-and-Dragons, or 'Wiki-storytelling'.
 
 The idea is for many different people to add their stories to this collection. e.g. histories of servers, histories of people, stories about the creation and use of mods, notable places, buildings etc etc.
 
