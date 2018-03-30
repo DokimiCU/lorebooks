@@ -45,11 +45,17 @@ How to add a book:
 -copy a prexisting book's file, change to following to suit:
 
 local book_title = "lorebooks:my_books_name_goes_here"
+
 local book_desc = "My Book's Name Goes Here"
+
 local inv_img = "default_book.png"
+
 local book_text = "'This is on page one,' said Mark.\n \n'Good to see you've used a paragraph break there,' said Steve."
+
 local book_text2 = "We are now on page two. Good thing this is short, or the end of our story will disappear off the page."
+
 local author = "Wombat the Wise"
+
 local date = "360"
 
 - The generic registers need to be in the file, but these are the same in all files. No need to change them!
