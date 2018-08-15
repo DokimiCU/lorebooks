@@ -1,5 +1,11 @@
 ----------------------------------------------------------
 --LOREBOOKS
+--This contains the function for displaying the formspec,
+-- that is this allows you to read the book
+-- It is in it's own mod to allow for multiple collections of lorebooks 
+-- This gives the option of disabling the default lorebooks collection (or any other collection the user does not want).
+-- To create a new collection refer to the default lorebooks mod as a template.
+-- Also add registration for the Treasurer mod, and/or some other way of getting books into the world.
 
 ----------------------------------------------------------
 lorebooks = {}
