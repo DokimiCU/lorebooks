@@ -36,10 +36,13 @@ Textures are licensed under CC BY-SA 3.0 Unported.
 
 # Change-log:
 0.1
+
 -Initial release.
 
 0.2
+
 -split off display function into lorebooks_display to allow for multiple collections
+
 -added "Cloud Mountain" books.
 
 
