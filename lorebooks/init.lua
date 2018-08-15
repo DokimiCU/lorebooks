@@ -62,8 +62,7 @@ local date = ""
 --lorebooks_bio.png (accounts of peoples lives, notable figures etc)
 --lorebooks_places.png (travelogues, histories of cities, famous landmarks etc)
 
-----------------------------------------------------------
-lorebooks = {}
+
 
 ----------------------------------------------------------
 --BOOKS
@@ -82,6 +81,14 @@ dofile(minetest.get_modpath("lorebooks").."/outside_awaits.lua")
 ----------------------
 --Chief Imperial Archivist Q.Entlag, 338
 dofile(minetest.get_modpath("lorebooks").."/whats_in_a_name.lua")
+--------------------------
+--Cloud Mountain Gazette, 382
+dofile(minetest.get_modpath("lorebooks").."/cloud_mountain_obituaries.lua")
+---------------------------
+--Governor Ku (of Cloud Mountain), 382
+dofile(minetest.get_modpath("lorebooks").."/cloud_mountain_1st_report.lua")
+dofile(minetest.get_modpath("lorebooks").."/cloud_mountain_2nd_report.lua")
+dofile(minetest.get_modpath("lorebooks").."/cloud_mountain_3rd_report.lua")
 --------------------
 --Doktor Dokimi, 315
 dofile(minetest.get_modpath("lorebooks").."/doktor_dokimis_research_notes_vol1.lua")
@@ -145,40 +152,4 @@ dofile(minetest.get_modpath("lorebooks").."/infinite_rebirth.lua")
 dofile(minetest.get_modpath("lorebooks").."/empire_shmempire.lua")
 --Yob Pikelet, 353
 dofile(minetest.get_modpath("lorebooks").."/homesteading_for_idiots.lua")
---------------------------
 
-
-
-
-
-
-
-
-
-----------------------------------------------------------
---FUNCTIONS
---this is called when books are used
---it displays the form with the the text from the book's file
-
-lorebooks.read_book = function(user, book_title, book_desc, book_text, book_text2, author, date)
-	local player_name = user:get_player_name()
-
-	local lines, string = {}, ""
-
-	local formspec =
-	"size[18,11]" ..
-
-	"label[0.4,0;" .. minetest.formspec_escape(book_desc) .. "]" ..
-	"label[0.5,0.5;Author: " .. author .. "]" ..
-	"label[0.5,0.8;Date: " .. date .. "]" ..
-
-	"textarea[0.5,1.5;8.6,10.6;;" .. minetest.formspec_escape(book_text) .. ";]" ..
-	"textarea[9.5,1.5;8.6,10.6;;" .. minetest.formspec_escape(book_text2) .. ";]" ..
-
-	"background[0,0;18,11;lorebooks_bg.png;true]"..
-
-	"button_exit[17.3,0;0.8,0.5;exit_form;X]"
-
-
-	minetest.show_formspec(player_name, book_title, formspec)
-end
