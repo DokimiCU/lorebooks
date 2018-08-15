@@ -1,1 +1,2 @@
 default
+lorebooks_display
