@@ -45,6 +45,8 @@ Textures are licensed under CC BY-SA 3.0 Unported.
 
 -added "Cloud Mountain" books.
 
+-added "How to Kill Children Nicely".
+
 
 
 # Guide to Adding Books to Lorebooks
