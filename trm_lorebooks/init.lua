@@ -34,3 +34,10 @@ treasurer.register_treasure("lorebooks:doktor_dokimis_research_notes_vol1",r,p,c
 treasurer.register_treasure("lorebooks:doktor_dokimis_research_notes_vol2",r,p,c)
 treasurer.register_treasure("lorebooks:doktor_dokimis_research_notes_wormholes",r,p,c)
 treasurer.register_treasure("lorebooks:my_pockets_are_vast",r,p,c)
+treasurer.register_treasure("lorebooks:cloud_mountain_obituaries",r,p,c)
+treasurer.register_treasure("lorebooks:cloud_mountain_1st_report",r,p,c)
+treasurer.register_treasure("lorebooks:cloud_mountain_2nd_report",r,p,c)
+treasurer.register_treasure("lorebooks:cloud_mountain_3rd_report",r,p,c)
+treasurer.register_treasure("lorebooks:how_to_kill_children_nicely",r,p,c)
+
+

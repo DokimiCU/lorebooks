@@ -1,24 +1,29 @@
 # lorebooks
 # by Dokimi
 
+Current version: 0.2
+
 A Minetest mod that adds lore books, to allow story telling within a Minetest universe.
 
 These books contain short stories, poems, religious decrees, official pronouncements... anything at all.
 
 These books can be used to tell fictional tales, or fictionalized versions of real peoples interactions with the Minetest game, and the Minetest community. The aim is for these books to create a Minetest Universe, to add a sense of narrative to playing Minetest, as well as to capture the stories and culture of the Minetest community. Think of it as a vast game of Dungeons-and-Dragons, or 'Wiki-storytelling'.
 
-The idea is for many different people to add their stories to this collection. e.g. histories of servers, histories of people, stories about the creation and use of mods, notable places, buildings etc etc.
+The idea is for many different people to create their own collections of stories. e.g. histories of servers, histories of people, stories about the creation and use of mods, notable places, buildings etc etc. These can then be used alongside the default lorebooks collection (or in place of them if you like!).
 
 The books can then be added to or spawned in the world. Players can collect and discover them, slowly uncovering the stories of Minetest as they go.
 
-See below for formatting guides etc to aid with adding your story to the collection.
+See below for formatting guides etc to aid with creating your own book collection mod.
+
+Currently only supports default game fonts (custom fonts may not display correctly).
 
 
 
 
 # The mods:
 
-- Lorebooks: The collection of books. They can only be accessed in creative mode (or crafted if you already have a copy).
+- Lorebooks: The default collection of books. They can only be accessed in creative mode (or crafted if you already have a copy).
+- lorebooks_display: Used by book collection mods to display the books to the user. 
 - trm_lorebooks: Registers the books with the Treasury mod. Allows books to be spawned in the world provided you have Treasury spawning mods (see the Treasury mod for details).
 
 
@@ -30,11 +35,26 @@ Textures are licensed under CC BY-SA 3.0 Unported.
 
 
 # Change-log:
+0.1
 
--nothing yet!
+-Initial release.
+
+0.2
+
+-split off display function into lorebooks_display to allow for multiple collections
+
+-added "Cloud Mountain" books.
+
 
 
 # Guide to Adding Books to Lorebooks
+You can create your own book collection mod to add a new collection of books.
+You shoud use the 'Lorebooks' and 'trm_lorebooks' mods as templates.
+Refer to the formatting advice to make sure it displays correctly.
+If you wish your collection to be consistent with the default set of books, then refer to the worldbuilding "Lore Guide".
+(You can of course add whatever you like, just remember to warn users if it does not fit with the default set.)
+
+
 Formatting guide:
 - limit to around 240-250 words per page
 - only two pages.
@@ -61,7 +81,7 @@ local author = "Wombat the Wise"
 local date = "360"
 
 - The generic registers need to be in the file, but these are the same in all files. No need to change them!
-- (The book also needs to then be run from the init.lua file, and registered for treasury, but submitters don't need to worry about that.)
+- The book also needs to then be run from the init.lua file, and registered for treasury.
 
 Inventory Images:
 - Having different images for each topic helps with sorting. Each book could have a unique image, but the number of images would become very large. These are the categories so far:
@@ -79,6 +99,8 @@ Inventory Images:
 
 
 # Lore Guide:
+This is for the "Minetest Universe" created in the default set of books.
+
 People can write what they like... within some constraints. The suspension of disbelief must be maintained! We need to agree on a few basics so that all the books feel like they are in the same universe. Therefore please consider the following:
 
 - Everything should be written from a perspective inside the game. For the author Minetest is the real world!
@@ -107,7 +129,7 @@ People can write what they like... within some constraints. The suspension of di
 - Put your criticisms in a book: If you dislike my idea for the religion/empire etc (or books that anyone has written) don't complain to us! Write a book of your own saying explaining how the world really works. But at least aknowledge that the Empire etc is the 'common sense' picture of reality (at least until some new story emerges).
 - Remember the first law of improv - if someone says something you run with it. Never say No!
 
-- Decency: this will be available to the general public, including children. Don't be an ass! You must get things past the Imperial Censor - annoy the Censor and your book shall bear the scars of the Censors rage!
+- Decency: this will be available to the general public, including children. Don't be an ass!
 
 # An Example: how to tell your story
 Two questions: 
