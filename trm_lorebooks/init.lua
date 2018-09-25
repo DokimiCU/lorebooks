@@ -38,4 +38,6 @@ treasurer.register_treasure("lorebooks:cloud_mountain_obituaries",r,p,c)
 treasurer.register_treasure("lorebooks:cloud_mountain_1st_report",r,p,c)
 treasurer.register_treasure("lorebooks:cloud_mountain_2nd_report",r,p,c)
 treasurer.register_treasure("lorebooks:cloud_mountain_3rd_report",r,p,c)
+treasurer.register_treasure("lorebooks:how_to_kill_children_nicely",r,p,c)
+
 
