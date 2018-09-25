@@ -47,7 +47,7 @@ local date = ""
 
 --generic registers... these are the same in all files. No need to change them!
 ]]
---(the book needs to then be run from the init.lua file, and registered for treasury, but submitters don't need to worry about that.)
+--the book needs to then be run from the init.lua file, and registered for treasury
 
 --Inventory Images:
 --Having different images for each topic helps with sorting...
