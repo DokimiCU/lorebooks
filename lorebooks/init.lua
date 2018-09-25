@@ -117,6 +117,9 @@ dofile(minetest.get_modpath("lorebooks").."/yobites_the_hidden_menace.lua")
 --Kandy Kane, 346
 dofile(minetest.get_modpath("lorebooks").."/the_diary_of_kandy_kane_vol6.lua")
 ----------------------------
+--Lom-lom Darkeyes, 383
+dofile(minetest.get_modpath("lorebooks").."/how_to_kill_children_nicely.lua")
+----------------------------
 --Napali Stef, 361
 dofile(minetest.get_modpath("lorebooks").."/palagon_the_fabled_city.lua")
 ----------------------------
